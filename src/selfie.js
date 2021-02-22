@@ -125,6 +125,7 @@
     }
 
     takePhoto() {
+      alert('take photo')
       const ctx = _selfie.store.getContext('2d');
       const width = _selfie.camera.videoWidth;
       const height = _selfie.camera.videoHeight;
