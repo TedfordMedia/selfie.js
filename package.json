@@ -15,5 +15,8 @@
     "javascript"
   ],
   "author": "Jaewon Kim <yocee57@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.8.12"
+  }
 }

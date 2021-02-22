@@ -1,7 +1,7 @@
 {
   "name": "selfie.js",
   "main": "selfie.js",
-  "description": "GZ Selfie",
+  "description": "Selfie with native Java Script.",
   "version": "1.0.0",
   "repository": {
     "type": "git",

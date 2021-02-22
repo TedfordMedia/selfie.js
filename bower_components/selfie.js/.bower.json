@@ -1,8 +1,7 @@
 {
   "name": "selfie.js",
   "main": "selfie.js",
-  "description": "GZ Selfie",
-  "version": "1.0.0",
+  "description": "Selfie with native Java Script.",
   "repository": {
     "type": "git",
     "url": "git@github.com:wonism/selfie.js.git"
@@ -19,5 +18,15 @@
   "ignore": [
     "**/.*",
     "package.json"
-  ]
+  ],
+  "_release": "5cbf08e0ef",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5cbf08e0ef8122054b581d8d19649c63e4c82d13"
+  },
+  "_source": "https://github.com/wonism/selfie.js.git",
+  "_target": "*",
+  "_originalSource": "selfie.js",
+  "_direct": true
 }
